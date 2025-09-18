@@ -67,7 +67,7 @@ function Header() {
 
                 <a
                     className="nav-button"
-                    href="/downloads/JogoPlanetas.zip"
+                    href="/downloads/Jogo Alcantra.rar"
                     download
                 >
                     Download
