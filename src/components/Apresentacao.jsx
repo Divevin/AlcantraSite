@@ -13,7 +13,7 @@ const Apresentacao = () => {
     return (
         <section className="apresentacao">
             <div className="apresentacao-container">
-                <h2>Alcântara: Uma Jornada Cósmica Educativa</h2>
+                <h2>Alcântra: Uma Jornada Cósmica Educativa</h2>
                 <p className="destaque-texto">
                     <span className="destaque">"Onde a aventura espacial encontra a aprendizagem!"</span>
                 </p>

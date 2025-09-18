@@ -5,7 +5,7 @@ html, body {
   height: 100%; /* altura total correta */
   font-family: 'Roboto', sans-serif;
   overflow-x: hidden;
-  background-image: url('images/background.jpg');
+  background-image: url('images/backgrounddosite.jpeg');
   object-fit: cover;
   background-size: cover;
   background-position: center;
