@@ -19,13 +19,13 @@ const Apresentacao = () => {
                 </p>
                 <p>
                     Embarque em uma jornada única pelo sistema solar como um corajoso astronauta brasileiro e seu fiel mascote, 
-                    um cachorro da raça Fila Brasileiro. Alcântara reinventa os jogos educacionais, combinando uma <strong>jogabilidade 
+                    um cachorro da raça Fila Brasileiro. Alcântra reinventa os jogos educacionais, combinando uma <strong>jogabilidade 
                     envolvente</strong> em estilo plataforma 2D com <strong>conceitos científicos precisos</strong> sobre cada planeta que você explora.
                 </p>
 
                 <div className="destaque-principal">
                     <p>
-                        Diferente de outros jogos educativos, Alcântara prioriza <strong>primeiro a diversão</strong>, 
+                        Diferente de outros jogos educativos, Alcântra prioriza <strong>primeiro a diversão</strong>, 
                         enquanto naturalmente introduz conceitos de Física como gravidade, massa e temperatura através 
                         da exploração de mundos com características únicas e desafios adaptados a cada ambiente planetário.
                     </p>
@@ -52,7 +52,7 @@ const Apresentacao = () => {
                 <div className="chamada-final">
                     <p>
                         Ideal para professores que desejam apresentar conceitos científicos de forma <strong>lúdica e imersiva</strong>, 
-                        Alcântara transforma a sala de aula em uma emocionante aventura interplanetária!
+                        Alcântra transforma a sala de aula em uma emocionante aventura interplanetária!
                     </p>
                     <button className="cta-button">Iniciar Exploração Cósmica</button>
                 </div>
