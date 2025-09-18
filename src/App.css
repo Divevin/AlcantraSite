@@ -5,7 +5,7 @@ html, body {
   height: 100%; /* altura total correta */
   font-family: 'Roboto', sans-serif;
   overflow-x: hidden;
-  background-image: url('https://img.freepik.com/fotos-gratis/nave-espacial-orbita-o-cometa-azul-brilhante-da-galaxia-escura-gerado-pela-ia_188544-9662.jpg?t=st=1746848737~exp=1746852337~hmac=898f507ef2881d09a9b38c4b8c9610f198c659f7912268ff07f7b9b98c2e8dd5&w=1060');
+  background-image: url('images/background.jpg');
   object-fit: cover;
   background-size: cover;
   background-position: center;
