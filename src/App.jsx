@@ -15,7 +15,7 @@ function App() {
             <footer className="footer">
                 <PlanetasFooter />
                 <div className="footer-copyright">
-                    © {new Date().getFullYear()} Alcântara - Jornada Cósmica
+                    © {new Date().getFullYear()} Alcântra - Jornada Cósmica
                 </div>
             </footer>
         </div>
